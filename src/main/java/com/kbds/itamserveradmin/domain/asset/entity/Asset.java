@@ -37,7 +37,7 @@ public class Asset {
     private String astPrice;
     private String astVer;
     private Boolean isAstInstallFile;
-    private String astSpd;
+    private String astSpd; //simple description
     private String astDpd;
 
 }
